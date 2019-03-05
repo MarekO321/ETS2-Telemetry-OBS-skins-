@@ -13,4 +13,4 @@
 - 4| Copy the link from your browser.
 - 5| Paste that link to the Browse source in OBS.
 - 6| Set the width to **270px** and height to **60px**.
-![alt text](https://github.com/MarekO321/ETS2-Telemetry-OBS-skins-/blob/master/obs fuel skin.PNG)
+![alt text](https://github.com/MarekO321/ETS2-Telemetry-OBS-skins-/blob/master/obs%20fuel%20skin.PNG)
