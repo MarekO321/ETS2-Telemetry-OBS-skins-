@@ -5,7 +5,7 @@
 
 ## Installation:
 - 1| Download skins.
-- 2| Unzip this file and paste it to the ets2-telemetry-server-master\server\Html\skins.
+- 2| Unzip and paste files to the ets2-telemetry-server-master\server\Html\skins.
 
 ## Usage in OBS: 
 - 1| Go to the localhost/25555.
