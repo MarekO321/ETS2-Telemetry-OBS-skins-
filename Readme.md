@@ -12,4 +12,4 @@
 - 3| Open it.
 - 4| Copy the link from your browser.
 - 5| Paste that link to the Browse source in OBS.
-- 6| Set the width to 270px and height to 60px; 
+- 6| Set the width to **270px** and height to **60px**.
