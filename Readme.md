@@ -3,7 +3,7 @@
 ### Requirments: Ets2 Telemetry server https://github.com/Funbit/ets2-telemetry-server.
 
 ### Installation: 
-             - 1| Download skin.
+             -1| Download skin.
              - 2| Unzip this file and paste it to the ets2-telemetry-server-master\server\Html\skins.
 
 ### Usage in OBS: 
