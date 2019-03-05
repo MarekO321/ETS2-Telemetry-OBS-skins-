@@ -1,0 +1,17 @@
+.speed {
+  top: 0;
+  color: white;
+  font-size: 30px;
+  font-family: Courier New, Courier, monospace;
+  font-weight: bold;
+}
+
+.truck-speed {
+  top: 0;
+  position: absolute;
+  margin-left: 105px;
+  color: white;
+  font-size: 30px;
+  font-family: Courier New, Courier, monospace;
+  font-weight: bold;
+}
